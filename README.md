@@ -2,8 +2,8 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Jamie Mathew [https://github.com/jamieemathew]
+2. Gayathri [https://github.com/Gxyathri]
 ## Team Id
 Team id here
 ## Link to product walkthrough
